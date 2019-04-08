@@ -1,2 +1,2 @@
-# mini-project
-Personal website mini-project
+# macheing.github.io
+Mini-project for personal website
